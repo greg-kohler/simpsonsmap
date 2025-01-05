@@ -34,10 +34,7 @@ This project visualizes the birthplaces of guest stars from The Simpsons as a cl
 ---
 
 ## Usage
-1. Run the script to generate the map:
-   ```bash
-   python simpsons_guest_map.py
-   ```
+1. Run the notebook to generate the map
 
 2. The script performs the following steps:
    - Scrapes guest star data from Wikipedia.
@@ -45,10 +42,7 @@ This project visualizes the birthplaces of guest stars from The Simpsons as a cl
    - Geocodes the birthplaces to obtain latitude and longitude.
    - Clusters nearby cities and creates a Folium map with custom donut icons.
 
-3. Open the generated map:
-   ```bash
-   open simpsons_map.html
-   ```
+3. Open the generated map
 
 ---
 
